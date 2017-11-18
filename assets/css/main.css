@@ -172,10 +172,10 @@
 /* BG */
 
 	#bg {
-		-moz-animation: bg 60s linear infinite;
-		-webkit-animation: bg 60s linear infinite;
-		-ms-animation: bg 60s linear infinite;
-		animation: bg 60s linear infinite;
+		-moz-animation: bg 100s linear infinite;
+		-webkit-animation: bg 100s linear infinite;
+		-ms-animation: bg 100s linear infinite;
+		animation: bg 100s linear infinite;
 		-moz-backface-visibility: hidden;
 		-webkit-backface-visibility: hidden;
 		-ms-backface-visibility: hidden;
@@ -266,7 +266,7 @@
 
 /* Overlay */
 
-	@-moz-keyframes overlay {
+	/*@-moz-keyframes overlay {
 		0% {
 			opacity: 0;
 		}
@@ -304,9 +304,9 @@
 		100% {
 			opacity: 1;
 		}
-	}
+	}*/
 
-	#overlay {
+	/*#overlay {
 		-moz-animation: overlay 1.5s 1.5s forwards;
 		-webkit-animation: overlay 1.5s 1.5s forwards;
 		-ms-animation: overlay 1.5s 1.5s forwards;
@@ -322,7 +322,7 @@
 		position: fixed;
 		top: 0;
 		width: 100%;
-	}
+	}*/
 
 /* Main */
 
