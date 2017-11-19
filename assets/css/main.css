@@ -188,7 +188,7 @@
 	/* Set your background with this */
 
 		background: #348cb2 url("images/bg.jpg") bottom left;
-		background-repeat: no-repeat;
+		background-repeat: space;
 		height: 100%;
 		left: 0;
 		opacity: 1;
